@@ -39,6 +39,10 @@ Now, run Mob-SF in Browser !
 
   ![image](https://github.com/rbp-x/docker_MobSF/assets/2045755/09d0b4cf-3da1-4701-a611-082960c7f2f6)
 
+Stop Docker COntainer :
+
+  $ sudo docker stop [container id]
+
 ## We have done installation Mobile Security Framework with Docker, Mob-SF Powerfull for analyze, bug scanning, vulnerability scanning for application builder from file android [apk] on localhost, and you no neew to worry source code or aplicaton .apk spread out on the Internet.
 
 ## Thanks !
